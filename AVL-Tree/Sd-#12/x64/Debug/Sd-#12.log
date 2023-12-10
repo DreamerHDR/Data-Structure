@@ -1,0 +1,3 @@
+﻿  Sd-#12.cpp
+D:\VSC prog\Structs_data\Sd-#12\Sd-#12\Sd-#12.cpp(129,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sd-#12.vcxproj -> D:\VSC prog\Structs_data\Sd-#12\x64\Debug\Sd-#12.exe
